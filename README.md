@@ -1,4 +1,4 @@
-DSTL-WarMakr
+WarMakr
 ============
 
 Usage:
